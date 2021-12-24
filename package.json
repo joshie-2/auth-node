@@ -8,9 +8,11 @@
     "start": "nodemon server.js"
   },
   "keywords": [
-    "authorization",
+    "authentication",
     "nodejs",
-    "jwt"
+    "jwt",
+    "expressjs",
+    "mongodb-atlas"
   ],
   "author": "joshua selfe",
   "license": "ISC",
