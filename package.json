@@ -1,7 +1,7 @@
 {
   "name": "auth-node",
   "version": "1.0.0",
-  "description": "this project is an exploration into builing an authorization server from scratch ",
+  "description": "A journey into learning about JSON Web Tokens (JWT) by building an authentication server using express/node ",
   "main": "server.js",
   "scripts": {
     "test": "dev test",
